@@ -1,0 +1,6 @@
+{
+    "settings": {
+        "default": false,
+        "languagePath": "./www/languages/en-US.json"
+    }
+}
