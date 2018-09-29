@@ -46,7 +46,6 @@ function loadLanguageJSON() {
 	document.getElementById("mainMenuItem02").childNodes[0].innerText = siteContent.menu.ingredients;
 	document.getElementById("mainMenuItem03").childNodes[0].innerText = siteContent.menu.settings;
 }
-
-
-
 module.exports.loadLanguageJSON = loadLanguageJSON;
+
+
